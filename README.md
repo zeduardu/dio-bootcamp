@@ -2,14 +2,14 @@
 *Lista de bootcamps com pregressão*
 ## LocaclizaLabs .NET Developer #2
 
-- [ ] Mentoria: Aula inaugural
-- [ ] Lógica de Programação Essencial
-- [ ] Aprenda o que são Estruturas de Dados e Algoritmos
-- [ ] Pensamento Computacional
-- [ ] Primeiros Passos Para Começar a Programar
-- [ ] Projetos ágeis com SCRUM
-- [ ] Introdução ao Girhub
-- [ ] Projeto: Criando seu primeiro repositório no github
+- [x] Mentoria: Aula inaugural
+- [x] Lógica de Programação Essencial
+- [x] Aprenda o que são Estruturas de Dados e Algoritmos
+- [x] Pensamento Computacional
+- [x] Primeiros Passos Para Começar a Programar
+- [x] Projetos ágeis com SCRUM
+- [x] Introdução ao Github
+- [x] Projeto: Criando seu primeiro repositório no github
 - [ ] IDE Instalação e configuração (Visual Studio)
 - [ ] Introdução ao C# e .NET
 - [ ] Primeiros passos com .NET
